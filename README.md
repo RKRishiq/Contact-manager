@@ -19,9 +19,9 @@ by giving email id and password
 After sign-in the user will be presented with a 
 form with which he can add his contacts. 
 The form should have fields such as
-a. Contact Name
-b. Contact Number
-c. Contact Email
-d. And a save button to save the contact. 
+1.Contact Name
+2.Contact Number
+3.Contact Email
+4.And a save button to save the contact. 
 On clicking the button the contact
 should be stored in the database.
